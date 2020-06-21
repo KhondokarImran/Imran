@@ -18,5 +18,5 @@ cd Imran
 python2 Imran.py
 
 
-username :Khondokar
+username :Imran
 passwed:Imran
